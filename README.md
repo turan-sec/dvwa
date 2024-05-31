@@ -28,3 +28,11 @@ Xampp (Apache, MySQL, ProFTPD):
 ```
 wget https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-linux-x64-8.0.30-0-installer.run
 ```
+## 2. O'rnatish:
+```
+chmod +x sudo xampp-linux-x64-8.0.30-0-installer.run && sudo ./xampp-linux-x64-8.0.30-0-installer.run
+```
+Nextlar...
+```
+
+```
