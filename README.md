@@ -33,6 +33,7 @@ wget https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-lin
 chmod +766 sudo xampp-linux-x64-8.0.30-0-installer.run && sudo ./xampp-linux-x64-8.0.30-0-installer.run
 ```
 Nextlar...
+## 3. Sozlamalar:
 ```
-
+sudo apt install ncat && cd /opt/lampp/htdocs && sudo mkdir dash2 && sudo mv * dash2
 ```
