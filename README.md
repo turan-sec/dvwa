@@ -30,7 +30,7 @@ wget https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-lin
 ```
 ## 2. O'rnatish:
 ```
-chmod +x sudo xampp-linux-x64-8.0.30-0-installer.run && sudo ./xampp-linux-x64-8.0.30-0-installer.run
+chmod +766 sudo xampp-linux-x64-8.0.30-0-installer.run && sudo ./xampp-linux-x64-8.0.30-0-installer.run
 ```
 Nextlar...
 ```
