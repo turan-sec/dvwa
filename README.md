@@ -26,5 +26,5 @@ wget https://redacted
 ```
 Xampp (Apache, MySQL, ProFTPD):
 ```
-https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-linux-x64-8.0.30-0-installer.run
+wget https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-linux-x64-8.0.30-0-installer.run
 ```
