@@ -35,5 +35,5 @@ chmod +766 sudo xampp-linux-x64-8.0.30-0-installer.run && sudo ./xampp-linux-x64
 Nextlar...
 ## 3. Sozlamalar:
 ```
-sudo apt install ncat && cd /opt/lampp/htdocs && sudo mkdir dash2 && sudo mv * dash2
+sudo apt install ncat && cd /opt/lampp/htdocs && sudo mkdir dash2 && sudo mv * dash2 && cd ~/Downloads/dvwa && unzip wordpress-5.9.zip . && cd wordpress && sudo cp -r * /opt/lampp/htdocs && cd wordpress && sudo cp * /opt/lampp/htdocs 
 ```
