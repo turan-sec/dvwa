@@ -20,3 +20,7 @@ wget https://downloads.wordpress.org/plugin/ultimate-member.2.1.11.zip
 ```
 wget https://downloads.wordpress.org/plugin/imagemagick-engine.1.7.4.zip
 ```
+Wordpress theme:
+```
+wget https://redacted
+```
