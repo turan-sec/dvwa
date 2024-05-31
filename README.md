@@ -8,7 +8,7 @@ mkdir ~/Downloads/dvwa && cd ~/Downloads/dvwa
 ```
 Wordpress:
 ```
-   wget https://wordpress.org/wordpress-5.9.zip
+wget https://wordpress.org/wordpress-5.9.zip
 ```
 Pluginlar:
 ```
