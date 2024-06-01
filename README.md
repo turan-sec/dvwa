@@ -1,6 +1,7 @@
 # DVWA
 > # DVWA (damn vulnerable wordpress application) - bir necha zaifliklarga ega wordpress CMS...
-![3840x2160-harry-potter-following-the-darkness-4k_1606594935](https://github.com/turan-sec/dvwa/assets/160316490/c64c80fe-1a38-4e79-a94b-9d2207a54501)
+![image_2024-06-01_09-42-38](https://github.com/turan-sec/dvwa/assets/160316490/c6ed21ff-c21c-4dd1-9d0b-485ceeb04b97)
+
 
 ## 1. Kerakli fayllarni yuklab olish (Debian - Ubuntu, Kali Linux, etc):
 ```
