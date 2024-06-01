@@ -54,3 +54,6 @@ sudo chown -R daemon:daemon /opt/lampp/htdocs
 ```
 sudo /opt/lampp/manager-linux-x64.run 
 ```
+Dastur ishga tushganda 'Manage servers' oynasidagi 'Start All' tugmasini bosish kerak:
+![machine](https://github.com/turan-sec/dvwa/assets/160316490/a169dc54-b986-4ffb-80d6-94be61e142c6)
+
