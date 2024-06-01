@@ -69,3 +69,7 @@ Vebsayt 127.0.0.1 IP manzilida ishga tushadi: http://127.0.0.0, tilni tanlash ke
 Keyingi sahifada shu ma'lumotlarni kiritib, 'submit' tugmasi bosiladi 
 
 ![image](https://github.com/turan-sec/dvwa/assets/160316490/e93eee6d-fe80-45b8-b51a-4df6d1b43d25)
+
+Keyingi sahifada sayt uchun sarlavha tanlab foydalanuvchi yaratiladi, login va parolni saqlab qo'yishni unutmang!
+![image](https://github.com/turan-sec/dvwa/assets/160316490/bcb0543a-745f-48b4-8e8a-583bdb5d90ea)
+
