@@ -4,7 +4,7 @@
 
 ## 1. Kerakli fayllarni yuklab olish (Debian - Ubuntu, Kali Linux, etc):
 ```
-mkdir ~/Downloads/dvwa && cd ~/Downloads/dvwa
+mkdir ~/Downloads/dvwa & cd ~/Downloads/dvwa
 ```
 Wordpress:
 ```
@@ -30,10 +30,10 @@ wget https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-lin
 ```
 ## 2. O'rnatish:
 ```
-chmod +766 sudo xampp-linux-x64-8.0.30-0-installer.run && sudo ./xampp-linux-x64-8.0.30-0-installer.run
+chmod +766 sudo xampp-linux-x64-8.0.30-0-installer.run & sudo ./xampp-linux-x64-8.0.30-0-installer.run
 ```
 Nextlar...
 ## 3. Sozlamalar:
 ```
-sudo apt install ncat && cd /opt/lampp/htdocs && sudo mkdir dash2 && sudo mv * dash2 && cd ~/Downloads/dvwa && unzip wordpress-5.9.zip . && cd wordpress && sudo cp -r * /opt/lampp/htdocs && cd wordpress && sudo cp * /opt/lampp/htdocs && cd /opt/lampp/htdocs && touch wp-config.php
+sudo apt install ncat & cd /opt/lampp/htdocs & sudo mkdir dash2 & sudo mv * dash2 & cd ~/Downloads/dvwa & unzip wordpress-5.9.zip . & cd wordpress & sudo cp -r * /opt/lampp/htdocs & cd wordpress & sudo cp * /opt/lampp/htdocs & cd /opt/lampp/htdocs & touch wp-config.php
 ```
