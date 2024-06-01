@@ -55,6 +55,13 @@ sudo /opt/lampp/manager-linux-x64.run
 ```
 Dastur ishga tushganda 'Manage servers' oynasidagi 'Start All' tugmasini bosish kerak:
 ![machine](https://github.com/turan-sec/dvwa/assets/160316490/a169dc54-b986-4ffb-80d6-94be61e142c6)
+
+Ma'lumotlar omboriga kirib o'zimiz uchun yangi database yaratamiz: https://127.0.0.1/phpmyadmin
+![machineee](https://github.com/turan-sec/dvwa/assets/160316490/49772d52-17a6-41f7-9770-8a73a51502b9)
+
+Yangi database (booktace_xyz) yaratish:
+![machineeee](https://github.com/turan-sec/dvwa/assets/160316490/d21c1cb0-896c-47e4-81ba-fe59d3314772)
+
 Vebsayt 127.0.0.1 IP manzilida ishga tushadi: http://127.0.0.0, tilni tanlash kerak:
 ![image](https://github.com/turan-sec/dvwa/assets/160316490/a637c169-5eae-48c1-8ad0-f9cac4136b15)
 
