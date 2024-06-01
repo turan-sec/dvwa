@@ -22,7 +22,7 @@ wget https://downloads.wordpress.org/plugin/imagemagick-engine.1.7.4.zip
 ```
 Wordpress theme:
 ```
-wget https://redacted
+wget https://github.com/turan-sec/dvwa/blob/main/envo-royal.zip
 ```
 Xampp (Apache, MySQL, ProFTPD):
 ```
