@@ -48,4 +48,5 @@ cd /opt/lampp/htdocs
 sudo touch wp-config.php
 sudo find /opt/lampp/htdocs -type d -exec chmod 777 {} \;
 sudo find /opt/lampp/htdocs -type f -exec chmod 777 {} \; #dont try at home
+sudo chown -R daemon:daemon /opt/lampp/htdocs
 ```
