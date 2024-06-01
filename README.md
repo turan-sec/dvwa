@@ -40,7 +40,7 @@ cd /opt/lampp/htdocs
 sudo mkdir dash2
 sudo mv * dash2
 cd ~/Downloads/dvwa
-unzip wordpress-5.9.zip .
+unzip wordpress-5.9.zip
 cd wordpress
 sudo cp -r * /opt/lampp/htdocs
 sudo cp * /opt/lampp/htdocs
