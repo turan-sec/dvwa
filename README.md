@@ -50,3 +50,7 @@ sudo find /opt/lampp/htdocs -type d -exec chmod 777 {} \;
 sudo find /opt/lampp/htdocs -type f -exec chmod 777 {} \; #dont try at home
 sudo chown -R daemon:daemon /opt/lampp/htdocs
 ```
+## 5. Serverni ishga tushirish: 
+```
+sudo /opt/lampp/manager-linux-x64.run 
+```
