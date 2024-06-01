@@ -66,5 +66,6 @@ Yangi database (booktace_xyz) yaratish:
 Vebsayt 127.0.0.1 IP manzilida ishga tushadi: http://127.0.0.0, tilni tanlash kerak:
 ![image](https://github.com/turan-sec/dvwa/assets/160316490/a637c169-5eae-48c1-8ad0-f9cac4136b15)
 
+Keyingi sahifada shu ma'lumotlarni kiritib, 'submit' tugmasi bosiladi 
 
-
+![image](https://github.com/turan-sec/dvwa/assets/160316490/e93eee6d-fe80-45b8-b51a-4df6d1b43d25)
