@@ -73,3 +73,7 @@ Keyingi sahifada shu ma'lumotlarni kiritib, 'submit' tugmasi bosiladi
 Keyingi sahifada sayt uchun sarlavha tanlab foydalanuvchi yaratiladi, login va parolni saqlab qo'yishni unutmang!
 ![image](https://github.com/turan-sec/dvwa/assets/160316490/bcb0543a-745f-48b4-8e8a-583bdb5d90ea)
 
+Tayyor :)
+![image](https://github.com/turan-sec/dvwa/assets/160316490/80f7f9cc-ddac-4743-b032-6306673860ce)
+
+
