@@ -45,5 +45,5 @@ cd wordpress
 sudo cp -r * /opt/lampp/htdocs
 sudo cp * /opt/lampp/htdocs
 cd /opt/lampp/htdocs
-touch wp-config.php
+sudo touch wp-config.php
 ```
