@@ -77,4 +77,11 @@ Keyingi sahifada sayt uchun sarlavha tanlab foydalanuvchi yaratiladi, login va p
 Tayyor :)
 ![image](https://github.com/turan-sec/dvwa/assets/160316490/80f7f9cc-ddac-4743-b032-6306673860ce)
 
+## Mac OS
 
+### Xampp install
+Yuklab olish:
+```
+wget https://yer.dl.sourceforge.net/project/xampp/XAMPP%20Mac%20OS%20X/8.0.28/xampp-osx-8.0.28-0-installer.dmg
+```
+O'rnatish uchun, ustiga ikki marta bosish kerak va Applications ga olib o'tish kerak.
